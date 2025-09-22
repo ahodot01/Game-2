@@ -7,13 +7,6 @@ In contrast, if the two numbers differs by 4 or more, the participant who submit
 equivalent, a draw occurs. Can be used/tested via 3 instances of Command Prompt in single/same computer: one for server and two for 2 players. Lightweight, terminal-friendly, and easy to tweak. 
 </p>
 
-<p>
-  🔗 <strong>Repo:</strong>
-  <a href="https://github.com/ahodot01/Game-2" target="_blank" rel="noopener noreferrer">
-    github.com/ahodot01/Game-2
-  </a>
-</p>
-
 <h2>Quick Start</h2>
 <ol>
   <li>Install <strong>Python 3.10+</strong>.</li>
