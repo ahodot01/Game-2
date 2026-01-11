@@ -20,5 +20,5 @@ equivalent, a draw occurs. Can be used/tested via 3 instances of Command Prompt 
 <h2>Notes</h2>
 <ul>
   <li>Self-contained, no heavy dependencies.</li>
-  <li>Code is short and readable—ideal for learning or quick mods.</li>
+  <li>Code is short and readable, ideal for learning or quick mods.</li>
 </ul>
