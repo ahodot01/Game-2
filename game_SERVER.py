@@ -1,6 +1,6 @@
 import socket
 
-# WINNTER DETERMINATION FUNCTION
+# WINNER DETERMINATION FUNCTION
 def determine_winner(num1, num2):
     # WINNER = HIGHER NUMBER WITH DIFFERENCE <=3 or LOWER NUMBER WITH DIFFERENCE > 3
     if num1==num2:
@@ -42,4 +42,5 @@ def main():
             player2.sendall(str(2).encode())  # DRAW
 
 # RUNNING FUNCTION
+
 main()
